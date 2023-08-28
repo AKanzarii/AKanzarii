@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on coding competitions
-- 📫 How to reach me by my mail
+- 📫 Contact: kanzarimajid19@gmail.com
 
 <!---
 AKanzarii/AKanzarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
